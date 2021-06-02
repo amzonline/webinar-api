@@ -1,36 +1,9 @@
 {
   "db": {
-    "host": "test-db-instance.chg7rza3lauf.ap-northeast-2.rds.amazonaws.com",
-    "user": "test_user",
-    "password": "ethereum1",
-    "database": "webinar",
+    "host": "",
+    "user": "",
+    "password": "",
+    "database": "",
     "port" : "3306"
-  },
-  "aws": {
-    "accessKeyId": "AKIAJDTNBBGKHGIBFBFQ",
-    "secretAccessKey": "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",
-    "region": "ap-northeast-2",
-    "apiVersion": "2015-03-31"
-  },
-  "aws-ses" : {
-    "accessKeyId": "AKIAI6ER5AC7W3XDNRCQ",
-    "secretAccessKey": "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",
-    "region": "us-west-2"
-  },
-  "imp": {
-    "imp_key": "7475867829101662",
-    "imp_secret": "Lj0iFj1qKLVzrHsICzKNem2JWYsxvaAguBz9UAzFmueNcHwOggCvDEfzDH68SGpmiZwcA5SWA6JMNfB4"
-  },
-  "identification": {
-    "success": "/identification/success",
-    "fail": "/identification/fail"
-  },
-  "redirectToHTTPS" : false,
-  "smsSendNo" : "01094586179",
-
-  "eth" : {
-    "prv_key" : "",
-    "adm_account" : "0x62e970d9f4af11a1012540a04beca3b3e493a56d",
-    "host" : "http://localhost:8545"
   }
 }
